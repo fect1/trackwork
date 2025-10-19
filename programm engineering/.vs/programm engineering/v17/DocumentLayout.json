@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repos\\programm engineering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Path.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Path.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|D:\\Repos\\programm engineering\\Path.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB31B3BC-FBA7-48A9-910D-35E44E693D55}|programm engineering.vcxproj|solutionrelative:Path.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solution.h",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Solution.h",
+              "RelativeDocumentMoniker": "Solution.h",
+              "ToolTip": "D:\\Repos\\programm engineering\\Solution.h",
+              "RelativeToolTip": "Solution.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T15:38:35.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Path.cpp",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Path.cpp",
+              "RelativeDocumentMoniker": "Path.cpp",
+              "ToolTip": "D:\\Repos\\programm engineering\\Path.cpp",
+              "RelativeToolTip": "Path.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T15:38:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Path.h",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Path.h",
+              "RelativeDocumentMoniker": "Path.h",
+              "ToolTip": "D:\\Repos\\programm engineering\\Path.h",
+              "RelativeToolTip": "Path.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T15:37:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graph.cpp",
+              "ToolTip": "D:\\Repos\\programm engineering\\Graph.cpp",
+              "RelativeToolTip": "Graph.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T15:35:25.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.h",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Graph.h",
+              "RelativeDocumentMoniker": "Graph.h",
+              "ToolTip": "D:\\Repos\\programm engineering\\Graph.h",
+              "RelativeToolTip": "Graph.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-19T15:34:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\Repos\\programm engineering\\Solution.cpp",
+              "RelativeDocumentMoniker": "Solution.cpp",
+              "ToolTip": "D:\\Repos\\programm engineering\\Solution.cpp",
+              "RelativeToolTip": "Solution.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T15:24:27.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
